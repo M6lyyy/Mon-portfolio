@@ -1,0 +1,155 @@
+
+header{
+    font-size: 50px;
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+    color: rgb(86, 41, 209);
+}
+
+a {
+    font-size: 20px;
+    text-align: center;
+    color: black;
+    font-family: 'Montserrat' , sans-serif;
+}
+
+body {
+ background-color: rgb(255, 255, 255);
+}
+
+#menu {
+    background-color: rgb(189, 189, 189);
+    margin-left: auto;
+ margin-right: auto ;
+ padding: 40px 50px 40px 50px;
+ border-radius: 1rem;
+ text-align: center;
+}
+
+.darkgreen {
+    color: black
+}
+h1 {
+    font-size: 35px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+h2 {
+    font-size: 35px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+    font-size: 35px;
+   font-family: 'Montserrat', sans-serif;
+}
+
+h4 {
+    font-size: 35px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h5 {
+    font-size: 35px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+p {
+        font-size: 18px;
+        font-family: sans-serif;
+        text-align: center;
+    }
+
+li {
+        font-size: 18px;
+        font-family: sans-serif;
+    }
+
+    
+.smaller-image {
+        width: 100px;
+        border-radius: 3%;
+    }
+
+.little-image {
+    width: 110px;
+    border-radius: 70%;
+
+}
+
+.Portfolio {
+    color: black;
+}
+.Instagram {
+    color: black;
+}
+.LinkedIn {
+    color: black;
+}
+
+.siteglobal {
+    background-color: gray;
+    border-radius: 0rem; color: grey;
+}
+
+
+
+#Moi {
+     border-width: 40px;
+     border-radius: 2rem;
+     text-align: center;
+}
+
+.box {
+    border: 5px solid rgb(117, 117, 117); 
+    background-color: rgb(255, 255, 255);
+    width: 400px;
+    height: 400px;
+    margin-left: auto ;
+    margin-right: auto;
+    padding: 10px;
+ border-radius: 2rem;
+
+}
+
+
+.container {
+    border: 5px solid; color: rgb(117, 117, 117);
+    border-radius: 2rem;
+    background-color: rgb(255, 255, 255);
+    width: 610px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    text-align: center;
+}
+
+
+#projets {
+     border-width: 8px;
+     border-radius: 2rem;
+     padding: 20px 40px 20px 40px; 
+     text-align: center;
+}
+
+#global {
+    background-color: rgb(238, 238, 238);
+    border-radius: 5rem;
+}
+
+
+
+
+#contact {
+    background-color: rgb(86, 41, 209);
+    border-radius: 1rem;
+    padding: 10px 20px 10px 20px;
+}
+
+
+a:hover {
+    color: blueviolet;
+}
+/* a:hover = cest pour changer la couleur quand le curseur passe */
